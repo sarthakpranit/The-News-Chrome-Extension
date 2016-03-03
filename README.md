@@ -1,4 +1,4 @@
-## TheNews Chrome Extension
+## The News Chrome Extension
 
 **This is a Google Chrome extension to provide a collated view of Designer News, Product Hunt and Hacker News everytime you open a new tab**
 
