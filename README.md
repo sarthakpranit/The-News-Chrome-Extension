@@ -1,11 +1,11 @@
-## TheNews.im Chrome Extension
+## TheNews Chrome Extension
 
 **This is a Google Chrome extension to provide a collated view of Designer News, Product Hunt and Hacker News everytime you open a new tab**
 
-***Why have these pages loaded in your new tab?***
-For any designer, it has become increasingly important to stay in sync with latest improvements in the world. Since the definition of design has been getting clearer with every day, I feel it's important to have such updates at the reach of a Cmd+T. 
+**Why have these pages loaded in your new tab?***
+For any designer, it has become increasingly important to stay in sync with latest improvements in the world. Since the definition of design has been getting clearer with every day, I feel it's important to have such updates at the reach of a Cmd+T.
 
-Disclaimer - I did not design the website. It already existed at www.thenews.im. I felt that such an access to updates would be great for a designer on his/her browser.
+Disclaimer - This website already existed at www.thenews.im. It just seemed like designer would love to have an easy access to such a page.
 
 ###Try it out
 
