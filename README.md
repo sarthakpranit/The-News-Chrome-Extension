@@ -12,7 +12,7 @@ Disclaimer - This website already existed at www.thenews.im. I just put it into 
 ###Try it out
 
 ####From Chrome store
-Visit:
+Visit: https://chrome.google.com/webstore/detail/thenewsim-chrome-extensio/enmpmidbeifccpgiilgconkoedgmammo?hl=en
 
 ####From source
 1. Download the latest ZIP file in the [Downloads section](https://github.com/sarthakpranit/TheNews_ChromeExt).
